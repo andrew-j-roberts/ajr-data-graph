@@ -2,8 +2,8 @@
 name: New Feature
 about: Use this template to create issues for new features
 title: ''
-labels: ''
-assignees: ''
+labels: new feature
+assignees: andrew-jacob-roberts
 
 ---
 
